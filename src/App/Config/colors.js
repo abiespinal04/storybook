@@ -4,5 +4,5 @@ export default {
     white:"#fff",
     gray:"#9ca5ab",
     error:"#b55464",
-    success:"#50c356"
+    success:"#5dc350"
 }
